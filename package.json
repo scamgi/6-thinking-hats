@@ -4,7 +4,8 @@
   "description": "This website helps you to use creative thinking for solving problems. It uses the \"6 Thinking Hats\" method developed by Edward de Bono.",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
