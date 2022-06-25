@@ -2,7 +2,7 @@
   "name": "6-thinking-hats",
   "version": "1.0.0",
   "description": "This website helps you to use creative thinking for solving problems. It uses the \"6 Thinking Hats\" method developed by Edward de Bono.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
